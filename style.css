@@ -74,7 +74,7 @@ textarea {
 .footer {
     background-color: var(--primary-color);
     color: var(--light-black);
-    padding: 1rem 1rem;
+    padding: 1rem;
     text-align: center;
     border-top-left-radius: 1rem;
     border-top-right-radius: 1rem;
